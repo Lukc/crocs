@@ -1,0 +1,6 @@
+[submodule "luigi"]
+	path = luigi
+	url = https://github.com/airstruck/luigi
+[submodule "lib/luigi"]
+	path = lib/luigi
+	url = https://github.com/airstruck/luigi
